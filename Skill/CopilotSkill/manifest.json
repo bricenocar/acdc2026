@@ -1,0 +1,19 @@
+
+{
+  "name": "MinecraftEventsSkill",
+  "description": "This skill handles communication between Copilot Studio and Minecraft for event management.",
+  "msaAppId": "YOUR-APP-ID",
+  "endpoints": [
+    {
+      "protocol": "BotFramework",
+      "url": "https://your-skill-endpoint/api/messages"
+    }
+  ],
+  "activities": [
+    {
+      "id": "HandleCustomEvent",
+      "type": "event",
+      "description": "Handles custom events from Copilot Studio"
+    }
+  ]
+}
