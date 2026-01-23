@@ -1,0 +1,9 @@
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.csproj.AssemblyReference.cache
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.AssemblyInfoInputs.cache
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.AssemblyInfo.cs
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.csproj.CoreCompileInputs.cache
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\ACDC2026\Skill\CopilotSkill\obj\Release\net10.0\CopilotSkill.sourcelink.json
