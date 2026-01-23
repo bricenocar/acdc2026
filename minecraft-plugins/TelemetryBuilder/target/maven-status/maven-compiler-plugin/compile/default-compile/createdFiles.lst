@@ -1,0 +1,3 @@
+com\example\minecraft\TelemetrySender.class
+com\example\minecraft\TelemetryEventFactory.class
+com\example\minecraft\MinecraftTelemetryPlugin.class

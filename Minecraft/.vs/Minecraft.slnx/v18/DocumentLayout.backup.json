@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AzureMinecraft\\Minecraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\helpers\\creditcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\helpers\\creditcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\helpers\\gameeventvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\helpers\\gameeventvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\services\\dataverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\services\\dataverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\services\\eventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\services\\eventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\gameeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\gameeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|c:\\azureminecraft\\minecraft\\minecraftfunctions\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB20-7AD3-EFB6-B61A-AACA03E5E5E2}|MinecraftFunctions\\MinecraftFunctions.csproj|solutionrelative:minecraftfunctions\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCalculator.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Helpers\\CreditCalculator.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\Helpers\\CreditCalculator.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Helpers\\CreditCalculator.cs",
+              "RelativeToolTip": "MinecraftFunctions\\Helpers\\CreditCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:07:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEventValidator.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Helpers\\GameEventValidator.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\Helpers\\GameEventValidator.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Helpers\\GameEventValidator.cs",
+              "RelativeToolTip": "MinecraftFunctions\\Helpers\\GameEventValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:07:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\Services\\AuthService.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\AuthService.cs",
+              "RelativeToolTip": "MinecraftFunctions\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:06:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataverseService.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\DataverseService.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\Services\\DataverseService.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\DataverseService.cs",
+              "RelativeToolTip": "MinecraftFunctions\\Services\\DataverseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:06:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventHubService.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\EventHubService.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\Services\\EventHubService.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\Services\\EventHubService.cs",
+              "RelativeToolTip": "MinecraftFunctions\\Services\\EventHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:05:57.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameEventHandler.cs",
+              "DocumentMoniker": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\GameEventHandler.cs",
+              "RelativeDocumentMoniker": "MinecraftFunctions\\GameEventHandler.cs",
+              "ToolTip": "C:\\AzureMinecraft\\Minecraft\\MinecraftFunctions\\GameEventHandler.cs",
+              "RelativeToolTip": "MinecraftFunctions\\GameEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:10:50.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

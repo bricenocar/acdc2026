@@ -1,0 +1,6 @@
+name: MinecraftTelemetry
+version: 1.0.0
+main: com.example.minecraft.MinecraftTelemetryPlugin
+api-version: 1.21
+author: Juan
+description: Telemetry + AI integration plugin
