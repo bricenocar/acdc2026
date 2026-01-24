@@ -1,0 +1,49 @@
+{
+  "@odata.context": "https://acdc2026aisearch.search.windows.net/$metadata#knowledgesources/$entity",
+  "@odata.etag": "\"0x8DE5AD177463F28\"",
+  "name": "knowledgesource-1769208108381",
+  "kind": "azureBlob",
+  "description": null,
+  "encryptionKey": null,
+  "searchIndexParameters": null,
+  "azureBlobParameters": {
+    "connectionString": "<redacted>",
+    "containerName": "telemetry",
+    "folderPath": null,
+    "isADLSGen2": true,
+    "ingestionParameters": {
+      "disableImageVerbalization": null,
+      "ingestionPermissionOptions": [],
+      "contentExtractionMode": "minimal",
+      "identity": null,
+      "embeddingModel": {
+        "kind": "azureOpenAI",
+        "azureOpenAIParameters": {
+          "resourceUri": "https://acdc2026openai.openai.azure.com",
+          "deploymentId": "text-embedding-ada-002",
+          "apiKey": "<redacted>",
+          "modelName": "text-embedding-ada-002",
+          "authIdentity": null
+        }
+      },
+      "chatCompletionModel": null,
+      "ingestionSchedule": {
+        "interval": "P1D",
+        "startTime": null
+      },
+      "assetStore": null,
+      "aiServices": null
+    },
+    "createdResources": {
+      "datasource": "knowledgesource-1769208108381-datasource",
+      "indexer": "knowledgesource-1769208108381-indexer",
+      "skillset": "knowledgesource-1769208108381-skillset",
+      "index": "knowledgesource-1769208108381-index"
+    }
+  },
+  "mcpToolParameters": null,
+  "webParameters": null,
+  "remoteSharePointParameters": null,
+  "indexedSharePointParameters": null,
+  "indexedOneLakeParameters": null
+}
