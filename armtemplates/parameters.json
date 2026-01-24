@@ -1,0 +1,102 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vaults_kvLavKode_name": {
+            "value": null
+        },
+        "sites_minecraft_acdc2026_name": {
+            "value": null
+        },
+        "capacities_fcaplavkode_name": {
+            "value": null
+        },
+        "serverfarms_ASP_LavKode_a290_name": {
+            "value": null
+        },
+        "serverfarms_ASP_LavKode_be6f_name": {
+            "value": null
+        },
+        "virtualMachines_vmLavKode_name": {
+            "value": null
+        },
+        "virtualMachines_vmMinecraft_name": {
+            "value": null
+        },
+        "storageAccounts_lavkode9750_name": {
+            "value": null
+        },
+        "storageAccounts_lavkodeaaa2_name": {
+            "value": null
+        },
+        "storageAccounts_lavkodebc95_name": {
+            "value": null
+        },
+        "sites_MinecraftDashboardACDC2026_name": {
+            "value": null
+        },
+        "components_minecraft_acdc2026_name": {
+            "value": null
+        },
+        "virtualNetworks_vmLavKode_vnet_name": {
+            "value": null
+        },
+        "searchServices_acdc2026aisearch_name": {
+            "value": null
+        },
+        "sites_minecraft_dashboard_acdc2026_name": {
+            "value": null
+        },
+        "namespaces_minecraft_telemetry_name": {
+            "value": null
+        },
+        "accounts_nexus_foundry_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmMinecraft_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_vmMinecraft_vnet_name": {
+            "value": null
+        },
+        "accounts_acdc2026openai_name": {
+            "value": null
+        },
+        "SignalR_SignalRTelemetrics_name": {
+            "value": null
+        },
+        "networkInterfaces_vmminecraft334_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmLavKode_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmMinecraft_nsg_name": {
+            "value": null
+        },
+        "networkInterfaces_vmlavkode703_8f9865a3_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmLavKode_ip_8f9865a3_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountdatalakee_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vmlavkode_name": {
+            "value": null
+        },
+        "streamingjobs_DataLakeTelemetrics_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "streamingjobs_MinecraftTelemetricsStreamAnalytics_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_6fed3326_61e1_4ad9_a3cf_c93cadae643a_CCAN_externalid": {
+            "value": null
+        }
+    }
+}
